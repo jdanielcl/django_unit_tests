@@ -9,6 +9,7 @@ verify_ssl = true
 pytz = "==2018.4"
 Django = "==2.1.2"
 selenium = "*"
+bpython = "*"
 
 [requires]
 python_version = "3.6"
